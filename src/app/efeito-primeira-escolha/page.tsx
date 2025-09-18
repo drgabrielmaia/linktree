@@ -330,7 +330,7 @@ export default function EfeitoPrimeiraEscolha() {
         <div className="max-w-5xl mx-auto">
           <div className="text-lg sm:text-xl md:text-2xl lg:text-3xl leading-relaxed mb-8 lg:mb-12" style={{fontWeight: '300'}}>
             <p>Imagine abrir seu Instagram daqui a 30 dias: bio clara, destaques profissionais, DMs com perguntas certas e agenda com pacientes que se reconhecem no seu trabalho.</p>
-            <p className="mt-4" style={{color: '#D4AF37'}}>Se hoje você sente que faz tudo "certo" e mesmo assim não fecha, o que falta não é esforço — é <strong>posicionamento que programa a preferência</strong>.</p>
+            <p className="mt-4" style={{color: '#D4AF37'}}>Se hoje você sente que faz tudo &quot;certo&quot; e mesmo assim não fecha, o que falta não é esforço — é <strong>posicionamento que programa a preferência</strong>.</p>
           </div>
 
           <a href="https://api.whatsapp.com/send/?phone=5583987391092&text=Ol%C3%A1%2C+estou+interessado%28a%29+no+Efeito+Primeira+Escolha&type=phone_number&app_absent=0" className="w-full sm:w-auto group relative px-8 sm:px-10 lg:px-12 py-4 lg:py-6 text-lg lg:text-xl font-bold rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-2xl cta-button inline-block text-center">

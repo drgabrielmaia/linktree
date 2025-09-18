@@ -188,7 +188,7 @@ export default function ModeloNegociosVendas() {
           <div className="text-left space-y-4 lg:space-y-6 text-lg sm:text-xl md:text-2xl leading-relaxed" style={{ fontWeight: '300' }}>
             <p><strong style={{ color: '#fca5a5' }}>•</strong> Consulta rica, oferta fraca (paciente não entende o valor).</p>
             <p><strong style={{ color: '#fca5a5' }}>•</strong> Protocolo ótimo, margem ruim (custos mal mapeados, bônus sem estratégia).</p>
-            <p><strong style={{ color: '#fca5a5' }}>•</strong> Medo de falar de preço; conversa vira "tabela" em vez de transformação.</p>
+            <p><strong style={{ color: '#fca5a5' }}>•</strong> Medo de falar de preço; conversa vira &quot;tabela&quot; em vez de transformação.</p>
             <p><strong style={{ color: '#fca5a5' }}>•</strong> Falta de pós-consulta comercial (perde reativação, upgrades e indicações).</p>
           </div>
         </div>
@@ -444,7 +444,7 @@ export default function ModeloNegociosVendas() {
           <div className="text-left space-y-4 lg:space-y-6 text-lg sm:text-xl md:text-2xl leading-relaxed" style={{ fontWeight: '300' }}>
             <p><strong style={{ color: '#fca5a5' }}>•</strong> Continuar competindo por preço (erosão de margem).</p>
             <p><strong style={{ color: '#fca5a5' }}>•</strong> Ofertas que não diferenciam (paciente não enxerga valor).</p>
-            <p><strong style={{ color: '#fca5a5' }}>•</strong> Conversas sem roteiro → perda no "quase".</p>
+            <p><strong style={{ color: '#fca5a5' }}>•</strong> Conversas sem roteiro → perda no &quot;quase&quot;.</p>
             <p><strong style={{ color: '#fca5a5' }}>•</strong> Falta de pós-comercial → cancelamentos, baixo LTV, atraso no crescimento.</p>
           </div>
         </div>

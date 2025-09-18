@@ -229,9 +229,9 @@ export default function AtraiEncanta() {
               </h3>
               <div className="space-y-3 lg:space-y-4 text-base lg:text-lg" style={{color: '#FFFFFF', fontWeight: '400'}}>
                 <p><strong style={{color: '#dc2626'}}>•</strong> Agenda imprevisível; mensagens sem resposta.</p>
-                <p><strong style={{color: '#dc2626'}}>•</strong> Pacientes chegam "curiosos", não "decididos".</p>
+                <p><strong style={{color: '#dc2626'}}>•</strong> Pacientes chegam &quot;curiosos&quot;, não &quot;decididos&quot;.</p>
                 <p><strong style={{color: '#dc2626'}}>•</strong> Equipe insegura sobre o que falar e quando falar.</p>
-                <p><strong style={{color: '#dc2626'}}>•</strong> Pós-consulta tímido; indicações acontecem "por sorte".</p>
+                <p><strong style={{color: '#dc2626'}}>•</strong> Pós-consulta tímido; indicações acontecem &quot;por sorte&quot;.</p>
               </div>
             </div>
 
@@ -295,7 +295,7 @@ export default function AtraiEncanta() {
             <p><strong style={{color: '#D4AF37'}}>•</strong> Checklists de experiência (recepção, sala, entrega, encerramento).</p>
             <p><strong style={{color: '#D4AF37'}}>•</strong> Kit Pós-consulta (mensagens 7/30/90 + pedido de review/NPS + indicação).</p>
             <p><strong style={{color: '#D4AF37'}}>•</strong> Planilha-painel com indicadores de operação (show-up, fechamento, CAC, LTV).</p>
-            <p><strong style={{color: '#D4AF37'}}>•</strong> Pautas que "chamam" (orgânico/pago) com ganchos e CTAs prontos.</p>
+            <p><strong style={{color: '#D4AF37'}}>•</strong> Pautas que &quot;chamam&quot; (orgânico/pago) com ganchos e CTAs prontos.</p>
             <p><strong style={{color: '#D4AF37'}}>•</strong> Mini playbook da equipe (quem faz o quê, quando e como).</p>
           </div>
 
@@ -488,7 +488,7 @@ export default function AtraiEncanta() {
         <div className="relative z-10 max-w-5xl mx-auto">
           <div className="text-lg sm:text-xl md:text-2xl lg:text-3xl leading-relaxed mb-8 lg:mb-12" style={{fontWeight: '300'}}>
             <p>Imagine abrir sua agenda no próximo mês e enxergar comparecimento alto, equipe segura no roteiro e pacientes que voltam e indicam.</p>
-            <p className="mt-4" style={{color: '#D4AF37'}}>Se hoje você "faz de tudo" e mesmo assim perde no detalhe, o que falta não é vontade — é <strong>processo</strong>.</p>
+            <p className="mt-4" style={{color: '#D4AF37'}}>Se hoje você &quot;faz de tudo&quot; e mesmo assim perde no detalhe, o que falta não é vontade — é <strong>processo</strong>.</p>
           </div>
 
           <a href="https://api.whatsapp.com/send/?phone=5583987391092&text=Ol%C3%A1%2C+estou+interessado%28a%29+no+Atrai+%26+Encanta&type=phone_number&app_absent=0" className="w-full sm:w-auto group relative px-8 sm:px-10 lg:px-12 py-4 lg:py-6 text-lg lg:text-xl font-bold rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-2xl cta-button inline-block text-center">
